@@ -1,4 +1,5 @@
 /*
+Task
 Given an integer,N , perform the following conditional actions:
 
 > If N is odd, print Weird
